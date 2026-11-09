@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\student\\Desktop\\Precepts\\Intermediate\\Precepts\\Debug\\Intermediate\\stdafx.obj",
+            "outputs": [
+                "C:\\Users\\student\\Desktop\\Precepts\\Intermediate\\Precepts\\Debug\\Intermediate\\stdafx.h.obj.dt.module.json",
+                "C:\\Users\\student\\Desktop\\Precepts\\Intermediate\\Precepts\\Debug\\Intermediate\\stdafx.h.obj.dt.d.json",
+                "C:\\Users\\student\\Desktop\\Precepts\\Intermediate\\Precepts\\Debug\\Intermediate\\Precepts(debug).pch"
+            ],
+            "requires": []
+        }
+    ]
+}
